@@ -1,0 +1,40 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln.DotSettings.user
+*.VC.db
+*.VC.opendb
+
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build artifacts
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: ignore packaged builds
+Build/
+
+# Ignore user-specific files
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
