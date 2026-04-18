@@ -19,11 +19,11 @@
 
 ---
 
-- - 演示视频
+### 演示视频
 
-    其余不便通过单张截图完整展示的动态内容，如技能完整释放流程、战斗反馈、角色移动、UI 变化等，统一放在 GitHub Release 中展示。
+其余不便通过单张截图完整展示的动态内容，如技能完整释放流程、战斗反馈、角色移动、UI 变化等，统一放在 GitHub Release 中展示。
 
-    - Demo Video: [查看最新演示视频 Release](https://github.com/Kakyoin61/UE5-GAS-CombatDemo-Portfolio/releases/latest)
+- [查看最新演示视频 Release](https://github.com/Kakyoin61/UE5-GAS-CombatDemo-Portfolio/releases/latest)
 
 ---
 
@@ -219,7 +219,7 @@ flowchart LR
 ## 仓库结构示例
 
 ```text
-P01_GAS_Demo/
+UE5-GAS-CombatDemo-Portfolio/
 ├─ Config/
 ├─ Content/
 ├─ Docs/
@@ -238,7 +238,6 @@ P01_GAS_Demo/
 
 - GitHub: [Kakyoin61](https://github.com/Kakyoin61)
 - Email: 17769127245@163.com
-- Resume / Portfolio: 
 
 ---
 
